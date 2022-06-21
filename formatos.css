@@ -1,0 +1,87 @@
+*{
+     margin:0px;
+     padding:0px;
+     text-align:center 
+}
+/* contêiner menu */
+ div#menu {
+     height:800px;
+     width:200px;
+     background-color: #fff;
+     float:left;
+}
+ div#menu div.nav {
+     padding-bottom: 15px;
+}
+ div#header, div#footer {
+     margin:0 auto;
+     width:1000px;
+     height:70px;
+     border:solid #c0c0c0 1px 
+}
+ a {
+     font-family:arial;
+     font-size: 14px;
+}
+ div#menu div.nav h4 {
+     width:100%;
+     background-color: darkgrey;
+     color:#fff;
+     padding-top:5px;
+     padding-bottom: 5px 
+}
+ div#menu div.nav ul {
+     padding-left: 10px;
+     padding-top: 7px;
+     list-style-type: none 
+}
+ div#menu div.nav ul li{
+     padding-left: 10px;
+     text-align: left;
+     line-height: 1.5 
+}
+/* contêiner artigos */
+ div#artigos {
+     height:800px;
+     width:648px;
+     background-color: #fff;
+}
+/* contêiner header */
+ div#header{
+     background: #fff URL(banner.jpg) 
+}
+ div#header ul {
+     text-align: right;
+     list-style-type: none;
+     padding-top:40px 
+}
+ div#header ul li{
+     display:inline;
+     margin-right: 20px;
+}
+ ul li a{
+     text-decoration:none;
+}
+ ul li a:hover {
+     color:#000;
+     text-decoration: underline;
+}
+ border-left: solid #c0c0c0 1px;
+ border-right: solid #c0c0c0 1px;
+/* contêiner centro */
+ div#centro {
+     width:1000px;
+     height:800px;
+     margin:0 auto;
+     border-left: solid #c0c0c0 1px;
+     border-right: solid #c0c0c0 1px;
+}
+ div#artigos div.article h2, div#artigos div.article a p {
+     font-family: tahoma;
+     text-align: left;
+}
+ div#artigos div.article h2{
+     color:#0000ff;
+     font-size: 30px;
+     padding-left:15px 
+}
