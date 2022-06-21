@@ -6,4 +6,4 @@ Você pode formatar os textos retirados da biblioteca online nesses links:
 HTML - https://www.freeformatter.com/html-formatter.html
 CSS - https://www.cleancss.com/css-beautify/
 
-Eles nem sempre ficam do jeito corretor mas a formatação já adianta bastante coisa
+Eles nem sempre ficam do jeito correto mas a formatação já adianta bastante coisa
